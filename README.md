@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitroe
+- 👋 Hi, I’m @mitroe from Aittokallio lab based in Helsinki, Finland
 - 👀 I’m interested in developing and applying experimental-computational platforms for biomedicine research
 - 🌱 I’m currently learning more about statistics and different omics technologies
 - 💞️ I’m looking to collaborate on translational cancer-related projects
