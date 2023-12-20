@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mitroe from Aittokallio lab based in Helsinki, Finland
+- 👋 Hi, I’m @mitroe from Aittokallio group for systems biomedicine based in Helsinki, Finland
 - 👀 I’m interested in developing and applying experimental-computational platforms for biomedicine research
-- 🌱 I’m currently learning more about statistics and different omics technologies
 - 💞️ I’m looking to collaborate on translational cancer-related projects
 - 📫 How to reach me misami (at) utu (dot) fi
 
